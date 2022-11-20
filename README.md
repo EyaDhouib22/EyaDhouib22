@@ -1,18 +1,15 @@
 Hi 👋 I am Eya Dhouib
 ===============================
 
-Embedded systems developper
+Software Engineering
 --------------------------
 
-I have a bachelor in Embedded systems, and i'm currently pursuing an engineering degree in Microelectronics & Embedded systems. I'm proud to be the nerdiest tech enthusiast of them all, since a little kid, I've always loved to create things, and my passion for learning is unmatched, After switching carrer paths from Content creation and graphic design towards embedded systems, I've been passionate with improving my C/C++ skills.
 
 * 🌍  I'm based in Sousse, Tunisia.
-* 🖥️  See my portfolio at [Behance portfolio](http://https://www.behance.net/djedidikayoum)
 * ✉️  You can contact me at [dhouib.eya2926@gmail.com](mailto:dhouib.eya2926@gmail.com)
-* 🧠  I'm learning Advanced simulation techniques and getting familiar with ROS2
+* 🧠  I'm learning React Native and NodeJs
 * 🚀  I'm an active volunteer in the AIESEC Community, as AIESEC IGT Team Member. 
 * 🤝  I'm open to collaborating on web/ mobile projects
-* ⚡  Elon musk confirmed to me his alien origins last time we met, dont tell anyone.
 
 ### Skills
 
@@ -32,7 +29,9 @@ I have a bachelor in Embedded systems, and i'm currently pursuing an engineering
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100009766141084/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/EyaDhouib22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/_eya_dh_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dhouib-eya-9067331b8//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20551393/dhouib-eya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100009766141084" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> 
+<a href="https://www.instagram.com/_eya_dh_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/dhouib-eya-9067331b8//" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/20551393/dhouib-eya" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a><a href="https://www.github.com/EyaDhouib22" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </p>
 ### Badges
 
 <b>My GitHub Stats</b>
