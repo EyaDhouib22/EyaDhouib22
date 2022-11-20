@@ -1,7 +1,7 @@
 Hi 👋 I am Eya Dhouib
 ===============================
 
-Software Engineering
+Computer Science Student - Software Engineering 
 --------------------------
 
 
