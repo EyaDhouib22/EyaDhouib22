@@ -7,9 +7,9 @@ Computer Science Student - Software Engineering
 
 * 🌍  I'm based in Sousse, Tunisia.
 * ✉️  You can contact me at [dhouib.eya2926@gmail.com](mailto:dhouib.eya2926@gmail.com)
-* 🧠  I'm learning React Native and NodeJs
-* 🚀  I'm an active volunteer in the AIESEC Community, as AIESEC IGT Team Member. 
-* 🤝  I'm open to collaborating on web/ mobile projects
+* 🧠  I'm learning new framewoks.
+* 🚀  I'm an active volunteer in the AIESEC Community, as AIESEC IGT Team Leader. 
+* 🤝  I'm open to collaborating on web/ mobile projects.
 
 ### Skills
 
